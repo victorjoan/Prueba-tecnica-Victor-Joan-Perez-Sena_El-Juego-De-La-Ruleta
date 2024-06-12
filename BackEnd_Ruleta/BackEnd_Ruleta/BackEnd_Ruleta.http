@@ -1,0 +1,6 @@
+@BackEnd_Ruleta_HostAddress = http://localhost:5219
+
+GET {{BackEnd_Ruleta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|c:\\users\\joan\\desktop\\unilink\\backend_ruleta\\backend_ruleta\\controllers\\datoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|solutionrelative:backend_ruleta\\controllers\\datoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|c:\\users\\joan\\desktop\\unilink\\backend_ruleta\\backend_ruleta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|solutionrelative:backend_ruleta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|c:\\users\\joan\\desktop\\unilink\\backend_ruleta\\backend_ruleta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|solutionrelative:backend_ruleta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|c:\\users\\joan\\desktop\\unilink\\backend_ruleta\\backend_ruleta\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|solutionrelative:backend_ruleta\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|c:\\users\\joan\\desktop\\unilink\\backend_ruleta\\backend_ruleta\\recursos\\elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|solutionrelative:backend_ruleta\\recursos\\elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|c:\\users\\joan\\desktop\\unilink\\backend_ruleta\\backend_ruleta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76800657-1E91-42AD-A9AA-D24601107F3C}|BackEnd_Ruleta\\BackEnd_Ruleta.csproj|solutionrelative:backend_ruleta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEnd_Ruleta\\appsettings.json",
+              "ToolTip": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\appsettings.json",
+              "RelativeToolTip": "BackEnd_Ruleta\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T12:00:59.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatosController.cs",
+              "DocumentMoniker": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\Controllers\\DatosController.cs",
+              "RelativeDocumentMoniker": "BackEnd_Ruleta\\Controllers\\DatosController.cs",
+              "ToolTip": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\Controllers\\DatosController.cs",
+              "RelativeToolTip": "BackEnd_Ruleta\\Controllers\\DatosController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAcwEcAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:26:14.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Elements.cs",
+              "DocumentMoniker": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\Recursos\\Elements.cs",
+              "RelativeDocumentMoniker": "BackEnd_Ruleta\\Recursos\\Elements.cs",
+              "ToolTip": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\Recursos\\Elements.cs",
+              "RelativeToolTip": "BackEnd_Ruleta\\Recursos\\Elements.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:24:08.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd_Ruleta\\Program.cs",
+              "ToolTip": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\Program.cs",
+              "RelativeToolTip": "BackEnd_Ruleta\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:05:34.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\Models\\usuario.cs",
+              "RelativeDocumentMoniker": "BackEnd_Ruleta\\Models\\usuario.cs",
+              "ToolTip": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\Models\\usuario.cs",
+              "RelativeToolTip": "BackEnd_Ruleta\\Models\\usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:03:04.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BackEnd_Ruleta\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Joan\\Desktop\\Unilink\\BackEnd_Ruleta\\BackEnd_Ruleta\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BackEnd_Ruleta\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:57:26.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

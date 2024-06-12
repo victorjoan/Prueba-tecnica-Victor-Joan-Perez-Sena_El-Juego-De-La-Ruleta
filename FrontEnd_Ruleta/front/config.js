@@ -1,0 +1,1 @@
+export const apiUrl = 'https://localhost:44306/api/Datos';
